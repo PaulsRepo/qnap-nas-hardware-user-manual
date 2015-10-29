@@ -1,4 +1,4 @@
-# 06.	Network Expansion Card Installation
+# Network Expansion Card Installation
 
  Warning: 
 	The following instructions should only be performed by an authorized and 
