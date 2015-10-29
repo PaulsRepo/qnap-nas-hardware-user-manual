@@ -1,4 +1,4 @@
 # Summary
 
-* [Introduction](LANGS.md)
+* Please select a language
 
