@@ -1,4 +1,4 @@
-# 02.	Power Button and Reset Button Behavior
+# Power Button and Reset Button Behavior
 
 *  Power button: Press to turn on or turn off.
 *  System	Power button (Turn on)
