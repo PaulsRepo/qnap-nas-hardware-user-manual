@@ -2,7 +2,7 @@
 
 * [English](en/READme.md)
 * [Deutsch](de/README.md)
-* Español
+* [Español](es/README.md)
 * Français
 * Italiano
 * Nederlands
