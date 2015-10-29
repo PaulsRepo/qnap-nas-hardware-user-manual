@@ -3,7 +3,7 @@
 * [English](en/READme.md)
 * [Deutsch](de/README.md)
 * [Español](es/README.md)
-* Français
+* [Français](fr/README.md)
 * Italiano
 * Nederlands
 * 日本語
