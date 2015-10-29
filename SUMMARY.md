@@ -5,6 +5,7 @@
    * [Legal Notices](en/Legal Notices/Legal Notices.md)
    * [Safety Warnings](en/Safety Warnings/Safety Warnings.md)
    * [01 - CPU and Memory Specifications](en/01 - CPU and Memory Specifications/01 - CPU and Memory Specifications.md)
+   * 02 - Power Button and Reset Button Behavior
 * [Deutsch](de/README.md)
 * [Español](es/README.md)
 * [Français](fr/README.md)
