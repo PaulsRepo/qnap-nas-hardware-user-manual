@@ -16,7 +16,7 @@
    * [10 - Installing a Power Supply Unit](en/10 - Installing a Power Supply Unit/10 - Installing a Power Supply Unit.md)
    * [Technical Support](en/Technical Support/Technical Support.md)
    * [GNU GENERAL PUBLIC LICENSE](en/GNU GENERAL PUBLIC LICENSE/GNU GENERAL PUBLIC LICENSE.md)
-   * Appendix A - Product Compliance Class
+   * [Appendix A - Product Compliance Class](en/Appendix A/Appendix A - Product Compliance Class.md)
 * [Deutsch](de/README.md)
 * [Español](es/README.md)
 * [Français](fr/README.md)
