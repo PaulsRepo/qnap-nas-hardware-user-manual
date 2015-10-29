@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [English](en/READme.md)
-   * Legal Notices
+   * [Legal Notices](en/Legal Notices/Legal Notices.md)
 * [Deutsch](de/README.md)
 * [Español](es/README.md)
 * [Français](fr/README.md)
