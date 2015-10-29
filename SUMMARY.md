@@ -1,7 +1,7 @@
 # Summary
 
 * [English](en/READme.md)
-* Deutsch
+* [Deutsch](de/README.md)
 * Español
 * Français
 * Italiano
