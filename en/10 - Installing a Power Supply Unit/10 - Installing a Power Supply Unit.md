@@ -1,5 +1,5 @@
 
-# 10.	Installing a Power Supply Unit
+# Installing a Power Supply Unit
 
 Note:
 	This section applies to rackmount NAS models only.
