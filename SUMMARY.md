@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [English](en/READme.md)
    * [Legal Notices](en/Legal Notices/Legal Notices.md)
-   * Safety Warnings
+   * [Safety Warnings](en/Safety Warnings/Safety Warnings.md)
 * [Deutsch](de/README.md)
 * [Español](es/README.md)
 * [Français](fr/README.md)
