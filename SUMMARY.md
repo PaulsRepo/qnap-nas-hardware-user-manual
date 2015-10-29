@@ -1,6 +1,8 @@
 # Summary
 
+* [Introduction](README.md)
 * [English](en/READme.md)
+   * Legal Notices
 * [Deutsch](de/README.md)
 * [Español](es/README.md)
 * [Français](fr/README.md)
