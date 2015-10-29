@@ -24,6 +24,6 @@
 * [Nederlands](nl/README.md)
 * [日本語](ja/README.md)
 * [한국어](ko/README.md)
-* [中文](zh/README.md)
-* [漢語](zh-tw/README.md)
+* [简体中文](zh/README.md)
+* [繁體中文](zh-tw/README.md)
 
