@@ -1,5 +1,5 @@
 
-# 09.	Using the LCD Panel
+# Using the LCD Panel
 
 
 
