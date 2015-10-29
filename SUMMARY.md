@@ -7,4 +7,5 @@
 * Italiano
 * Nederlands
 * 日本語
+* 한국어
 
