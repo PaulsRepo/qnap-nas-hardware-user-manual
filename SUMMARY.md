@@ -13,7 +13,7 @@
    * [Install and Hot-swap Hard Drives](en/07 - Install and Hot-swap Hard Drives/07 - Install and Hot-swap Hard Drives.md)
    * [RAID Recovery](en/08 - RAID Recovery/08 - RAID Recovery.md)
    * [Using the LED Panel](en/09 - Using the LED Panel/09 - Using the LED Panel.md)
-   * [10 - Installing a Power Supply Unit](en/10 - Installing a Power Supply Unit/10 - Installing a Power Supply Unit.md)
+   * [Installing a Power Supply Unit](en/10 - Installing a Power Supply Unit/10 - Installing a Power Supply Unit.md)
    * [Technical Support](en/Technical Support/Technical Support.md)
    * [GNU GENERAL PUBLIC LICENSE](en/GNU GENERAL PUBLIC LICENSE/GNU GENERAL PUBLIC LICENSE.md)
    * [Appendix A - Product Compliance Class](en/Appendix A/Appendix A - Product Compliance Class.md)
