@@ -8,7 +8,7 @@
    * [Power Button and Reset Button Behavior](en/02 - Power Button and Reset Button Behavior/02 - Power Button and Reset Button Behavior.md)
    * [USB One Touch Copy](en/03 - USB One Touch Copy/03 - USB One Touch Copy.md)
    * [LED and Alarm Buzzer Specifications](en/04 - LED and Alarm Buzzer Specifications/04 - LED and Alarm Buzzer Specifications.md)
-   * [Upgrade Memory on QNAP Turbo NAS](en/05 - Upgrade Memory on QNAP Turbo NAS/05 - Upgrade Memory on QNAP Turbo NAS (RAM Module Installation))
+   * [Upgrade Memory on QNAP Turbo NAS](en/05 - Upgrade Memory on QNAP Turbo NAS/05 - Upgrade Memory on QNAP Turbo NAS.md)
    * [Network Expansion Card Installation](en/06 - Network Expansion Card Installation/06 - Network Expansion Card Installation.md)
    * [Install and Hot-swap Hard Drives](en/07 - Install and Hot-swap Hard Drives/07 - Install and Hot-swap Hard Drives.md)
    * [RAID Recovery](en/08 - RAID Recovery/08 - RAID Recovery.md)
