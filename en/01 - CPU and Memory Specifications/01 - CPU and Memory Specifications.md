@@ -1,4 +1,4 @@
-# 01.	CPU and Memory Specifications
+# CPU and Memory Specifications
 
 
  Caution: Modifying the hardware, software, or firmware of the QNAP products will void the warranty. QNAP is not responsible for any form of damage or loss of data caused by modding the QNAP products. Users should bear their own risks of all sorts of possible data loss or system instabilities due to changing the hardware parts, modifying the default system firmware or installing any unauthorized third party applications on QNAP products.
