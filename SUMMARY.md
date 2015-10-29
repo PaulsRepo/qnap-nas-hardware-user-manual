@@ -14,7 +14,7 @@
    * [08 - RAID Recovery](en/08 - RAID Recovery/08 - RAID Recovery.md)
    * [09 - Using the LED Panel](en/09 - Using the LED Panel/09 - Using the LED Panel.md)
    * [10 - Installing a Power Supply Unit](en/10 - Installing a Power Supply Unit/10 - Installing a Power Supply Unit.md)
-   * Technical Support
+   * [Technical Support](en/Technical Support/Technical Support.md)
 * [Deutsch](de/README.md)
 * [Español](es/README.md)
 * [Français](fr/README.md)
