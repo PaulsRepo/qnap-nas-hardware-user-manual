@@ -4,4 +4,5 @@
 * Deutsch
 * Español
 * Français
+* Italiano
 
