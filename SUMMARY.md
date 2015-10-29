@@ -5,7 +5,7 @@
 * [Español](es/README.md)
 * [Français](fr/README.md)
 * [Italiano](it/README.md)
-* Nederlands
+* [Nederlands](nl/README.md)
 * 日本語
 * 한국어
 * 中文
