@@ -9,7 +9,7 @@
    * [03 - USB One Touch Copy](en/03 - USB One Touch Copy/03 - USB One Touch Copy.md)
    * [04 - LED and Alarm Buzzer Specifications](en/04 - LED and Alarm Buzzer Specifications/04 - LED and Alarm Buzzer Specifications.md)
    * [05 - Upgrade Memory on QNAP Turbo NAS](en/05 - Upgrade Memory on QNAP Turbo NAS/05 - Upgrade Memory on QNAP Turbo NAS (RAM Module Installation)
-   * 06 - Network Expansion Card Installation
+   * [06 - Network Expansion Card Installation](en/06 - Network Expansion Card Installation/06 - Network Expansion Card Installation.md)
 * [Deutsch](de/README.md)
 * [Español](es/README.md)
 * [Français](fr/README.md)
