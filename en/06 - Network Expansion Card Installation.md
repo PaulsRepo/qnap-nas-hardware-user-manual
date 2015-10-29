@@ -1,4 +1,4 @@
-# Chapter 6.	Network Expansion Card Installation
+# 06.	Network Expansion Card Installation
 
  Warning: 
 	The following instructions should only be performed by an authorized and 
