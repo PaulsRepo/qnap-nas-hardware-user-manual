@@ -8,6 +8,7 @@
    * [02 - Power Button and Reset Button Behavior](en/02 - Power Button and Reset Button Behavior/02 - Power Button and Reset Button Behavior.md)
    * [03 - USB One Touch Copy](en/03 - USB One Touch Copy/03 - USB One Touch Copy.md)
    * [04 - LED and Alarm Buzzer Specifications](en/04 - LED and Alarm Buzzer Specifications/04 - LED and Alarm Buzzer Specifications.md)
+   * 05 - Upgrade Memory on QNAP Turbo NAS
 * [Deutsch](de/README.md)
 * [Español](es/README.md)
 * [Français](fr/README.md)
