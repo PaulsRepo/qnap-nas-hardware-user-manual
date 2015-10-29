@@ -6,8 +6,8 @@
 * [Nederlands](nl)
 * [日本語 (にほんご)](ja)
 * [한국어, 조선어](ko)
-* [漢語](zh-tw)
 * [中文](zh)
+* [漢語](zh-tw)
 
 <!--
 * [Português](pt-br)
