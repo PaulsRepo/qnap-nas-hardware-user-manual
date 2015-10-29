@@ -1,4 +1,4 @@
-# 03.	USB One Touch Copy
+# USB One Touch Copy
 
 System	Number of seconds (press the one touch copy button to trigger data copy)
 All NAS models	0.5 sec
