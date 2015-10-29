@@ -1,4 +1,4 @@
-# 04.	LED and Alarm Buzzer Specifications
+# LED and Alarm Buzzer Specifications
 
 The LED indicators of the NAS indicate the system status and information. When the 
 
