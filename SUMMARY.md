@@ -4,7 +4,7 @@
 * [English](en/READme.md)
    * [Legal Notices](en/Legal Notices/Legal Notices.md)
    * [Safety Warnings](en/Safety Warnings/Safety Warnings.md)
-   * [01 - CPU and Memory Specifications](en/01 - CPU and Memory Specifications/01 - CPU and Memory Specifications.md)
+   * [CPU and Memory Specifications](en/01 - CPU and Memory Specifications/01 - CPU and Memory Specifications.md)
    * [02 - Power Button and Reset Button Behavior](en/02 - Power Button and Reset Button Behavior/02 - Power Button and Reset Button Behavior.md)
    * [03 - USB One Touch Copy](en/03 - USB One Touch Copy/03 - USB One Touch Copy.md)
    * [04 - LED and Alarm Buzzer Specifications](en/04 - LED and Alarm Buzzer Specifications/04 - LED and Alarm Buzzer Specifications.md)
