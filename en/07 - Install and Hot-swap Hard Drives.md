@@ -1,4 +1,4 @@
-# Chapter 7.	Install and Hot-swap Hard Drives
+# 07.	Install and Hot-swap Hard Drives
 
 
 
