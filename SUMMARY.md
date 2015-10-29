@@ -6,4 +6,5 @@
 * Français
 * Italiano
 * Nederlands
+* 日本語
 
