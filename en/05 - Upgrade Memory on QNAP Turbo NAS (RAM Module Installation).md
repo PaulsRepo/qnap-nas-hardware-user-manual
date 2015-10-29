@@ -1,4 +1,4 @@
-# Chapter 5.	Upgrade Memory on QNAP Turbo NAS (RAM Module Installation)
+# 05.	Upgrade Memory on QNAP Turbo NAS (RAM Module Installation)
 
  Warning:
 * 
