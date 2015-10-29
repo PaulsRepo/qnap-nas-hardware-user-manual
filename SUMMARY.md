@@ -12,6 +12,7 @@
    * [06 - Network Expansion Card Installation](en/06 - Network Expansion Card Installation/06 - Network Expansion Card Installation.md)
    * [07 - Install and Hot-swap Hard Drives](en/07 - Install and Hot-swap Hard Drives/07 - Install and Hot-swap Hard Drives.md)
    * [08 - RAID Recovery](en/08 - RAID Recovery/08 - RAID Recovery.md)
+   * 09 - Using the LED Panel
 * [Deutsch](de/README.md)
 * [Español](es/README.md)
 * [Français](fr/README.md)
