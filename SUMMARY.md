@@ -4,7 +4,7 @@
 * [English](en/READme.md)
    * [Legal Notices](en/Legal Notices/Legal Notices.md)
    * [Safety Warnings](en/Safety Warnings/Safety Warnings.md)
-   * 01 - CPU and Memory Specifications
+   * [01 - CPU and Memory Specifications](en/01 - CPU and Memory Specifications/01 - CPU and Memory Specifications.md)
 * [Deutsch](de/README.md)
 * [Español](es/README.md)
 * [Français](fr/README.md)
