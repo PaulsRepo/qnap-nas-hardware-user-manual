@@ -1,4 +1,4 @@
-# 07.	Install and Hot-swap Hard Drives
+# Install and Hot-swap Hard Drives
 
 
 
