@@ -5,7 +5,7 @@
    * [Legal Notices](en/Legal Notices/Legal Notices.md)
    * [Safety Warnings](en/Safety Warnings/Safety Warnings.md)
    * [CPU and Memory Specifications](en/01 - CPU and Memory Specifications/01 - CPU and Memory Specifications.md)
-   * [02 - Power Button and Reset Button Behavior](en/02 - Power Button and Reset Button Behavior/02 - Power Button and Reset Button Behavior.md)
+   * [Power Button and Reset Button Behavior](en/02 - Power Button and Reset Button Behavior/02 - Power Button and Reset Button Behavior.md)
    * [03 - USB One Touch Copy](en/03 - USB One Touch Copy/03 - USB One Touch Copy.md)
    * [04 - LED and Alarm Buzzer Specifications](en/04 - LED and Alarm Buzzer Specifications/04 - LED and Alarm Buzzer Specifications.md)
    * [05 - Upgrade Memory on QNAP Turbo NAS](en/05 - Upgrade Memory on QNAP Turbo NAS/05 - Upgrade Memory on QNAP Turbo NAS (RAM Module Installation)
